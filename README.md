@@ -1,159 +1,126 @@
-# 👋 Hi, I'm Shyamal Srivastava  
 
-🚀 **Senior QA Engineer | Automation Strategist | SDET (In Progress)**  
-📍 Gurugram, India | 🌍 Open to Remote & Global Opportunities  
-
----
-
-## 🧠 Who I Am  
-
-Senior QA Engineer with **5+ years of experience** driving quality across Insurance, Logistics, HCM, and Microservices-based systems.
-
-My focus is not just writing test cases — but building **automation ecosystems** that:
-
-- 🚀 Improve release confidence  
-- ⏱ Reduce regression effort  
-- 🔁 Integrate seamlessly with CI/CD  
-- 🧭 Enable shift-left testing  
-- 📈 Support scalable product growth  
-
-I collaborate closely with developers, product managers, and DevOps teams to ensure quality is **embedded throughout the SDLC — not added at the end.**
+# 🚀 Shyamal Srivastava
+**`Senior QA Engineer | Automation Strategist | SDET (In Progress)`**
 
 ---
 
-# 🛠 Technical Expertise  
+## 🧠 About Me
 
-## 🔹 Automation & Framework Design  
+- 🔎 5+ years of experience across Insurance, Logistics & HCM domains  
+- 🏗 Build scalable Selenium + PyTest automation frameworks  
+- 🔁 Integrate UI & API automation into CI/CD pipelines  
+- 📉 Reduced manual regression effort by ~30%  
+- 📊 Improved release stability through risk-based testing  
+- 🤝 Strong believer in shift-left & engineering-driven quality  
 
-- 🧩 Selenium WebDriver  
-- 🐍 PyTest (Fixtures, Parametrization, Hooks)  
-- 🏗 Page Object Model (POM)  
-- 📊 Data-Driven & Parallel Execution Frameworks  
-- ♻️ Custom Utilities & Base Classes  
-
----
-
-## 🔹 API & Microservices Testing  
-
-- 🌐 Python Requests Library  
-- 📬 Postman / Newman  
-- 📄 Swagger / JSON Schema Validation  
-- 🎭 API Mocking  
-- 🔗 Microservice Validation Strategies  
+I focus on building **automation ecosystems**, not just test scripts.
 
 ---
 
-## 🔹 DevOps & Cloud Exposure  
+## 🛠 Skill Stack
 
-- 🔁 Jenkins Pipelines (CI/CD Integration)  
-- 🌳 Git / GitHub  
-- 🐳 Docker & Kubernetes  
-- ☁️ GCP & AWS CloudWatch  
-- 🖥 Linux & SQL  
+<!-- Skill icons list: https://github.com/tandpfun/skill-icons -->
+[![My Skills](https://skillicons.dev/icons?i=python,selenium,git,github,jenkins,docker,kubernetes,linux,postgres,postman,githubactions&theme=light)](https://skillicons.dev)
 
----
+**Automation & Testing:**  
+Selenium WebDriver · PyTest · Page Object Model · Data-Driven Framework · API Testing · Postman · Requests Library  
 
-## 🔹 Testing Practices  
+**DevOps & Cloud Exposure:**  
+Jenkins CI/CD · Docker · Kubernetes · GCP · AWS CloudWatch  
 
-- 🎯 Risk-Based Testing  
-- 🔄 Shift-Left Strategy  
-- ⚡ Regression Optimization  
-- 📊 Defect Analytics & Root Cause Analysis  
-- 🏃 Agile / Scrum Delivery  
+**Practices:**  
+Agile · Shift-Left Testing · Risk-Based Testing · Regression Optimization  
 
 ---
 
-## 🔥 Featured Engineering Work
+## 🚀 Featured Projects
 
-### Selenium + PyTest Automation Framework  
-🔗 https://github.com/shyam1808/selenium-pytest-automation-framework  
-
-A production-oriented automation framework demonstrating:
-
-- 🧩 Clean separation of test & page layers  
-- 🏗 Scalable folder structure  
-- ⚙️ Centralized configuration management  
-- 🔄 Reusable base driver utilities  
-- 📑 Reporting integration  
-- 🚀 CI/CD-ready design  
-
-This reflects how I approach automation at scale —  
-**Structured. Maintainable. Extensible.**
-
----
-
-# 💼 Professional Impact  
-
-## 🏢 Senior QA Engineer – Insurance Domain  
-
-- 🚀 Built REST API automation frameworks in Python, reducing manual regression effort by ~30%  
-- 🔁 Integrated UI & API automation into Jenkins pipelines  
-- 🛡 Acted as release quality gatekeeper defining regression scope & risk areas  
-- 📊 Improved escaped defect detection through analytics-driven tracking  
-- 👨‍🏫 Mentored QA engineers and standardized automation practices  
-
----
-
-## 🚚 QA Engineer – Logistics Platform  
-
-- 📦 Validated logistics workflows & API endpoints  
-- 📉 Reduced post-release defects through improved regression planning  
-- 📈 Improved defect lifecycle transparency across sprints  
-
----
-
-## 🏥 Experience Across Domains  
-
-- 🏦 Insurance (Agent & Consumer platforms)  
-- 🚚 Logistics Management Systems  
-- 👥 Human Capital Management (HCM)  
-- 🔗 Microservices & API-driven architectures  
-
----
-
-# 📈 What I’m Building Next  
-
-- 🧠 Advanced PyTest fixture architecture  
-- 🔄 Hybrid UI + API automation strategy  
-- ⚡ Playwright exploration for modern stacks  
-- 🔁 CI/CD maturity with pipeline-level quality gates  
-- 📊 Performance-aware automation practices  
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/shyam1808/selenium-pytest-automation-framework">
+        <img src="https://raw.githubusercontent.com/github/explore/main/topics/selenium/selenium.png" width="120" />
+      </a>
+      <br><br>
+      <b>Selenium + PyTest Automation Framework</b>
+      <br>
+      <sub>Scalable UI automation framework built with Python, Selenium & PyTest using clean POM architecture.</sub>
+      <br><br>
+      <a href="https://github.com/shyam1808/selenium-pytest-automation-framework">🔗 View Repository</a>
+      <br>
+      <sub>Selenium · PyTest · POM · CI/CD</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/github/explore/main/topics/api/api.png" width="120" />
+      </a>
+      <br><br>
+      <b>REST API Automation Framework</b>
+      <br>
+      <sub>Python Requests-based automation framework with schema validation and CI integration.</sub>
+      <br><br>
+      <a href="#">🔗 Coming soon!!</a>
+      <br>
+      <sub>API Testing · Requests · JSON · Jenkins</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/github/explore/main/topics/playwright/playwright.png" width="120" />
+      </a>
+      <br><br>
+      <b>Playwright + Javascript/Typescript Automation Framework.</b>
+      <br>
+      <sub>Scalable UI automation framework built with Playwright, Javascript & Typescript using clean POM architecture.</sub>
+      <br><br>
+      <a href="#">🔗 Coming soon!!</a>
+      <br>
+      <sub>Jenkins · Docker · CI/CD · Automation Strategy</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 🧭 My QA Philosophy  
+## 💼 Professional Impact
 
-> Automation is an engineering discipline — not just scripting.
+### 🏢 Senior QA Engineer – Insurance Domain
+- Built REST API automation frameworks in Python  
+- Integrated UI & API automation into Jenkins pipelines  
+- Acted as release quality gatekeeper  
+- Improved escaped defect detection via analytics  
+- Mentored QA engineers on automation standards  
 
-- 📉 Stable tests > Large number of tests  
-- 🤝 Quality ownership > QA dependency  
-- 🔁 CI/CD + Automation = Real DevOps  
-- 🎯 Risk awareness reduces production surprises  
-
----
-
-# 🏆 Career Direction  
-
-## 🚀 Senior SDET / Automation Architect  
-
-Focused on:
-
-- 🏗 Enterprise-level automation design  
-- 🔗 Hybrid stack (UI + API + Microservices)  
-- 🔁 CI/CD-driven regression ecosystems  
-- ⚡ High-velocity product teams  
+### 🚚 QA Engineer – Logistics Platform
+- Validated logistics workflows & APIs  
+- Reduced post-release defects  
+- Improved sprint-level defect visibility  
 
 ---
 
-# 📫 Let’s Connect  
+## 📈 What I’m Building Next
 
-🔗 GitHub:  
-https://github.com/shyam1808  
+- Advanced PyTest fixture architecture  
+- Hybrid UI + API automation scaling  
+- Playwright exploration  
+- CI/CD maturity & quality gates  
+- Automation reliability engineering  
 
-💼 LinkedIn:  
-https://www.linkedin.com/in/shyamal-srivastava-qualityanalyst  
+---
 
-📧 Email:  
-shyamalsrivastava18@gmail.com  
+## 📫 Connect With Me
 
-🤝 Open to collaboration & Senior QA / SDET roles  
+
+<a href="https://github.com/shyam1808" target="blank">
+  <img src="https://skillicons.dev/icons?i=github" alt="Github" />
+</a>
+<a href="https://www.linkedin.com/in/shyamal-srivastava-qualityanalyst" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+
+
+- 📧 **Email:** shyamalsrivastava18@gmail.com 
+
+---
+
+<!-- Optional: remove if you want a more strict professional look -->
+🤝  *Open to Senior QA / SDET / Automation roles.*
